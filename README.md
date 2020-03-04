@@ -23,10 +23,8 @@ With 16 GPIO pins, communication via I2C, SPI and UART and 10 bit ADC it is comp
 
 This sensor was a part of LifeStyle kisok Project for enticing more customers. The idea behind this board is that the customer can touch the like button and a touch sensor behind the dial will register the count and send command to BeagleBone Black interfaced with a relay circuit to monitor or increase the number.
 
-![](https://github.com/aayushi-95/Embedded-Systems-Sensors/blob/master/images/Picture3.png)
-
 4) Color Sensor - _SmartBin_
 
 Battery operated Smart bin had a color sensor implanted TCS230 to check the toxicity of waste inside. It was designed to use in hospitals to check the biohazard substances disposed and alert the system based on predefined colors. PWM of PIC16F was exploited to serve the purpose. It would capture and measure teh frequency to detect the color of disposed waste.
 
-![](https://github.com/aayushi-95/Embedded-Systems-Sensors/blob/master/images/Capture.png) ![](https://github.com/aayushi-95/Embedded-Systems-Sensors/blob/master/images/Picture1.png) 
+![](https://github.com/aayushi-95/Embedded-Systems-Sensors/blob/master/images/combine.png) 
