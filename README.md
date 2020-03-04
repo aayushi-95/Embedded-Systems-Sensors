@@ -1,5 +1,5 @@
 # Embedded-Systems---Sensors
-Wi-Fi Module, RFID, Color, Touch, Proximity and Ultrasound Sensor (ATM e-Surveillance)
+Wi-Fi Module, RFID, Color, Touch, Relay Control and Ultrasound Sensor (ATM e-Surveillance)
 
 1) Distance measurement with Ultrasonic Sensor - _ATM Surveillance for Shutter Door_
 
