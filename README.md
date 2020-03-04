@@ -27,4 +27,6 @@ This sensor was a part of LifeStyle kisok Project for enticing more customers. T
 
 Battery operated Smart bin had a color sensor implanted TCS230 to check the toxicity of waste inside. It was designed to use in hospitals to check the biohazard substances disposed and alert the system based on predefined colors. PWM of PIC16F was exploited to serve the purpose. It would capture and measure teh frequency to detect the color of disposed waste.
 
+## Block Diagram Ref.
+
 ![](https://github.com/aayushi-95/Embedded-Systems-Sensors/blob/master/images/combine.PNG)
